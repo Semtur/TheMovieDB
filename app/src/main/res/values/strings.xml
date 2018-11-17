@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Movie DB</string>
+    <string name="network_issues">Check your Internet connection!</string>
+    <string name="data_downloading">please wait, data is downloading...</string>
+    <string name="repeat">repeat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
